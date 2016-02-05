@@ -8,3 +8,5 @@ Work in progress
 3. npm install
 4. push to heroki
 5. do the stuff you need on slack custom slash commands
+
+Also find all the config.js files and add keys as needed
